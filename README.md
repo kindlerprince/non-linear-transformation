@@ -1,7 +1,8 @@
-# Linear Regression in Multiple Variable
-* Implementation of linear regression in Multiple Variable
+# Non Linear Transformation
+* Implementation of non linear transformation on non linear data set
+* Applying linear regression in multiple variable
 * The equation solve using Gaussian Elimination 
 
 ## Execution
-`$ gcc multi_variable.c`  
+`$ gcc non-linear.c -lm`  
 `$ ./a.out`
